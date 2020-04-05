@@ -1,0 +1,10 @@
+.sec_main {
+    background: url(img/main1.jpg) 100% 100% no-repeat #343a40;
+    background-size: contain;
+    background-position: center;    
+}
+.m-custom {
+    margin-top: 700px;
+    margin-bottom: 30px;
+    color: white
+}
