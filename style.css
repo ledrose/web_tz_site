@@ -8,3 +8,16 @@
     margin-bottom: 30px;
     color: white
 }
+.circle {
+    background-color: blue;
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    margin-top: 20px;
+}
+.circle_inner {
+    padding-top: 20%;
+    margin-left: 20%;
+    height: 60%;
+    width: 60%;
+}
