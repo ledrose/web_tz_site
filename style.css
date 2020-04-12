@@ -2,6 +2,8 @@
     background: url(img/main1.jpg) 100% 100% no-repeat #343a40;
     background-size: contain;
     background-position: center;    
+    z-index: 1;
+    position: relative;
 }
 .m-custom {
     margin-top: 700px;
@@ -20,4 +22,15 @@
     margin-left: 20%;
     height: 60%;
     width: 60%;
+}
+.circle_section {
+    position: fixed;
+    top: 30vh;
+    left: 50ch;
+    z-index: 0;
+
+}
+.back_section {
+    padding-bottom: 800px;
+    background-color: #343a40;
 }
